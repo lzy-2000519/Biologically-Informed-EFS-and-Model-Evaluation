@@ -130,10 +130,7 @@ python 08_visualization_shap_combined.py
 
 MIT License
 
-## 👥 Author
-
-[Your Name]
 
 ## 📧 Contact
 
-[Your Email]
+lllzygpt@protonmail.com
